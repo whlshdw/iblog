@@ -5,8 +5,8 @@ import re
 
 from github import Github
 
-MD_HEAD = """## Gitblog
-My personal blog using issues and GitHub Actions (随意转载，无需署名)
+MD_HEAD = """## iblog
+This blog using issues and GitHub Actions 
 """
 
 BACKUP_DIR = "BACKUP"
